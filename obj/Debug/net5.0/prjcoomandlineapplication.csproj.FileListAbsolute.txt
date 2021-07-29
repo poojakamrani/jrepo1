@@ -1,0 +1,16 @@
+C:\online training\csharp\prjcoomandlineapplication\bin\Debug\net5.0\prjcoomandlineapplication.exe
+C:\online training\csharp\prjcoomandlineapplication\bin\Debug\net5.0\prjcoomandlineapplication.deps.json
+C:\online training\csharp\prjcoomandlineapplication\bin\Debug\net5.0\prjcoomandlineapplication.runtimeconfig.json
+C:\online training\csharp\prjcoomandlineapplication\bin\Debug\net5.0\prjcoomandlineapplication.runtimeconfig.dev.json
+C:\online training\csharp\prjcoomandlineapplication\bin\Debug\net5.0\prjcoomandlineapplication.dll
+C:\online training\csharp\prjcoomandlineapplication\bin\Debug\net5.0\ref\prjcoomandlineapplication.dll
+C:\online training\csharp\prjcoomandlineapplication\bin\Debug\net5.0\prjcoomandlineapplication.pdb
+C:\online training\csharp\prjcoomandlineapplication\obj\Debug\net5.0\prjcoomandlineapplication.csproj.AssemblyReference.cache
+C:\online training\csharp\prjcoomandlineapplication\obj\Debug\net5.0\prjcoomandlineapplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\online training\csharp\prjcoomandlineapplication\obj\Debug\net5.0\prjcoomandlineapplication.AssemblyInfoInputs.cache
+C:\online training\csharp\prjcoomandlineapplication\obj\Debug\net5.0\prjcoomandlineapplication.AssemblyInfo.cs
+C:\online training\csharp\prjcoomandlineapplication\obj\Debug\net5.0\prjcoomandlineapplication.csproj.CoreCompileInputs.cache
+C:\online training\csharp\prjcoomandlineapplication\obj\Debug\net5.0\prjcoomandlineapplication.dll
+C:\online training\csharp\prjcoomandlineapplication\obj\Debug\net5.0\ref\prjcoomandlineapplication.dll
+C:\online training\csharp\prjcoomandlineapplication\obj\Debug\net5.0\prjcoomandlineapplication.pdb
+C:\online training\csharp\prjcoomandlineapplication\obj\Debug\net5.0\prjcoomandlineapplication.genruntimeconfig.cache
